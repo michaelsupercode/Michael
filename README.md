@@ -1,5 +1,5 @@
 
-Full Stack Web-Developer _MERN_ | Stuttgart | Esslingen | Germany
+Full Stack Web-Developer | _MERN_ | Stuttgart | Esslingen | Germany
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
